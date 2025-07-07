@@ -9,7 +9,7 @@
 
 # Oink Macro
 
-A powerful and user-friendly auto-clicker application built with Python and CustomTkinter for macOS.
+A powerful and pig themed auto-clicker application built with Python and CustomTkinter for macOS.
 
 ## Features
 
@@ -19,7 +19,7 @@ A powerful and user-friendly auto-clicker application built with Python and Cust
 - **Position Control**: Follow mouse cursor or set fixed coordinates
 - **Repeat Options**: Finite number of clicks or infinite until stopped
 - **Hotkey Support**: Set custom hotkeys to start/stop clicking
-- **Modern UI**: Clean, intuitive interface with custom theming
+- **Modern UI**: Clean, lavender like appearances
 
 ## Screenshot
 
@@ -156,10 +156,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 All icons used in this application are from [Icons8](https://icons8.com):
 
-- **Session Timeout** icon for time interval functionality
-- **Location Off** icon for position selection
-- **Select Cursor** icon for mouse options
-- **Synchronize** icon for repeat functionality
+- [Session Timeout icon for time interval functionality](https://icons8.com/icon/OoEj25UTztmI/session-timeout)
+- [Location Off icon for position selection](https://icons8.com/icon/113264/location-off)
+- [Select Cursor icon for mouse options](https://icons8.com/icon/TVppPfbzSk3y/select-cursor)
+- [Synchronize icon for repeat functionality](https://icons8.com/icon/83216/synchronize)
 
 Thank you to Icons8 for providing these high-quality icons under their free license.
 
