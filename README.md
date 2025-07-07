@@ -1,4 +1,13 @@
-# Oink Macro - Auto Clicker
+<div align="center">
+  <img width="512" src="https://github.com/Darkshadogt/Oink-Macro/blob/main/assets/OinkMacro.png"/>
+</div>
+<p align="center">Oink! Oink! Let the Pig handle your clicks!</p>
+
+---
+<br>
+<br>
+
+# Oink Macro
 
 A powerful and user-friendly auto-clicker application built with Python and CustomTkinter for macOS.
 
@@ -12,9 +21,10 @@ A powerful and user-friendly auto-clicker application built with Python and Cust
 - **Hotkey Support**: Set custom hotkeys to start/stop clicking
 - **Modern UI**: Clean, intuitive interface with custom theming
 
-## Screenshots
+## Screenshot
 
-*[Add screenshots of your application here]*
+<img width="623" alt="User Interface" src="https://github.com/user-attachments/assets/f15ca511-ed22-483b-8357-da2907ac26ab" />
+
 
 ## Installation
 
@@ -24,7 +34,7 @@ A powerful and user-friendly auto-clicker application built with Python and Cust
 
 ### Download and Install
 
-1. **Download the latest release** from the [Releases](https://github.com/yourusername/oink-macro/releases) page
+1. **Download the latest release** from the [Releases](https://github.com/Darkshadogt/Oink-Macro/releases) page
 2. **Extract the DMG file** (double-click to mount)
 3. **Drag the app to Applications** folder
 4. **Grant Accessibility permissions**:
@@ -71,7 +81,7 @@ A powerful and user-friendly auto-clicker application built with Python and Cust
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/oink-macro.git
+   git clone https://github.com/darkshadogt/oink-macro.git
    cd oink-macro
    ```
 
@@ -165,7 +175,3 @@ If you encounter any issues:
 ## Disclaimer
 
 This tool is intended for legitimate automation tasks. Users are responsible for complying with applicable laws and terms of service when using this software.
-
----
-
-**Made with ❤️ for macOS automation** 
